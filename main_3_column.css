@@ -1,4 +1,3 @@
-
 body {
     border:solid;
     border-color: steelblue;
@@ -80,9 +79,11 @@ aside{
     padding-left: 2em;
     float:left;
 
- }
-
- 
+}
+aside h3{
+    color:maroon;
+    
+}
 li{
     line-height: 1.5;
   
